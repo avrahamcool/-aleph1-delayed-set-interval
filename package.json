@@ -1,0 +1,28 @@
+{
+  "name": "aleph1-delayed-set-interval",
+  "version": "1.0.0",
+  "description": "delay the setInterval function to the start of the next minute.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avrahamcool/aleph1-delayed-set-interval.git"
+  },
+  "keywords": [
+    "aleph1",
+    "setInterval"
+  ],
+  "author": "Avraham Essoudry",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/avrahamcool/aleph1-delayed-set-interval/issues"
+  },
+  "homepage": "https://github.com/avrahamcool/aleph1-delayed-set-interval#readme",
+  "devDependencies": {
+    "typescript": "^3.5.2",
+    "tslint": "^5.18.0"
+  }
+}

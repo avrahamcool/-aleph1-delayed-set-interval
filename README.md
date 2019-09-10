@@ -8,6 +8,7 @@
 
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/avrahamcool/aleph1-delayed-set-interval.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/avrahamcool/aleph1-delayed-set-interval/context:javascript)
 [![Total alerts](https://img.shields.io/lgtm/alerts/g/avrahamcool/aleph1-delayed-set-interval.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/avrahamcool/aleph1-delayed-set-interval/alerts/)
+[![DeepScan grade](https://deepscan.io/api/teams/5394/projects/7173/branches/67737/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=5394&pid=7173&bid=67737)
 
 aleph1-delayed-set-interval is a JS library that delay the setInterval function to the start of the next minute.
 

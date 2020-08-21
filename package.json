@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/avrahamcool/aleph1-delayed-set-interval#readme",
   "devDependencies": {
-    "typescript": "^3.5.2",
+    "typescript": "^4.0.2",
     "tslint": "^5.18.0"
   }
 }
